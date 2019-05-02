@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Per Year Funding</title>
+    <script src="http://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="sidebar">
+        <h3>Data Views</h3>
+        <a href="project_overview.html">Project Overview</a>
+          <a href="per_year.html">Per Year Funding</a>
+          <a href="per_institution.html">Per Institution Funding</a>
+          <a href="per_aff_type.html">Per Organization Type Funding</a>
+          <a href="per_grant_type.html">Per Grant Type Funding</a>
+    </div>
+    <div class="content">
+    <div class="chart-space">
+        <div class="top-charts">
+            
+            <div id="chart1"></div>
+            <div id="chart2"></div>
+        </div><!--top-charts-->
+        <h1>Background</h1>
+        <h3>The National Institutes of Health (NIH) is a biomedical research agency that was created to, “to seek fundamental knowledge about the nature and behavior of living systems and the application of that knowledge to enhance health, lengthen life, and reduce illness and disability.” To carry out this mission, the NIH invests billions of dollars each year in biomedical research. About 80% of the NIH's budget is awarded through almost 50,000 competitive grants to more than 300,000 researchers at more than 2,500 research institutions in the United States and around the world. Close to 10% of the NIH’s budget is utilized for projects conducted within its own laboratories. 
+
+The NIH employs a peer review system in which a committee of scientists evaluates grant applications on criteria, such as approach, innovation, and significance. Subsequently, these grant application evaluations lead to grant funding awards. Previous literature reveals bias and disparities in this grant funding mechanism. An analysis of ethnicity and race in NIH R01 grant funding awards revealed that, “black applicants remain 10 percentage points less likely than whites to be awarded NIH research funding” (Ginther et al., 2011). Moreover, an evaluation of NIH grant funding for 25,674 investigators in 2015 showed that, “while the NIH gives half of all research project grant dollars to about 19% of funded investigators, half the money goes to just 2% of funded organizations and 10% of states” (Wahls W. P., 2018). There are many factors that can influence NIH grant funding, including gender and race, affiliation and professional networks, and grant funding and publication records. Ultimately, deducing these factors and utilizing them to predict researchers’ grant funding success proves a challenging and interesting problem.</h3>
+        <h1>Objective</h1>
+        <h3>The objective of this project is to shed light features that play a significant role in neuroscience researchers’ grant funding from National Institute of Neurological Disorders and Stroke (NINDS) </h3>
+        <h1>Acquiring the Data</h1>
+        <h3>All NINDS funding data from 1993-2017 was collected through the NIH RePORTER database. The Principle Investigator names from the NINDS data were used to then mine all Scopus data available from 1970-2017. This data includes investigator current institution as well as previous institutions, coauthors, publications, h-index, journals published in, etc.</h3>
+        
+        <h1>Key Findings</h1>
+        <h3>Of the features examined in this project, NINDS funding did seem to be skewed towards particular categories within the funding application. From 2007-on there was vastly greater NINDS intramural funding measured in total funding than funding provided to any other research institute. Between 2007 and 2018, NINDS intramural funding makes up over 20% of all total funding per year.</h3>
+        <h3>Many private research institutes and pharmaceutical companies show greater average funding, showing that average grant sizes seem to be larger for these types of institutions</h3>
+        
+        <h3>Across every metric, the greatest funding is seen from 2003-2004. This corresponds with the observation that the most active NINDS funding was seen in 2005 </h3>
+        
+        <h3>When examining Affiliation Type, we see that Medical Schools dominate in total research funding. This effect seems to even out when examining average funding. This may indicate many smaller grants accumulating to a much larger total grant funding amount for medical shools in comparison to other organization types. This shows heavy skew towards Medical Schools for number of grants awarded.</h3>
+        
+        <h3>When looking at funding per grant type, we see that R01 grants receive the most total funding per year by a gigantic margin. When we examine this category by mean funding, we see R01 much lower on the chart. This indicates a very large number of smaller R01 grants than any other grant type. This shows a heavy skew towards granting of R01s</h3>
+        
+        <h1>References</h1>
+        <h4>References
+Ginther, D. K., Schaffer, W. T., Schnell, J., Masimore, B., Liu, F., Haak, L. L., & Kington, R. 
+(2011). Race, Ethnicity, and NIH Research Awards. Science,333(6045), 1015-1019. 
+            doi:10.1126/science.1196783</h4>
+            
+<h4>Wahls W. P. (2018). The NIH must reduce disparities in funding to maximize its return on 
+investments from taxpayers. eLife, 7, e34965. doi:10.7554/eLife.34965
+</h4>
+        <div class="bottom-charts">
+            <div id="chart3"></div>
+        </div><!--bottom-charts-->
+    </div><!--chartspace-->
+    </div><!--content-->
+    <div class="header" id="myHeader">
+        <h1>National Institutes of Neurological Disorders and Stroke </h1>
+        <h1>Grant Funding Project Overview</h1>
+    </div>
+    <script src="js/per_year.js"></script>
+    <script>
+        window.onscroll = function() {myFunction()};
+
+        var header = document.getElementById("myHeader");
+        var sticky = header.offsetTop;
+
+        function myFunction() {
+          if (window.pageYOffset > sticky) {
+            header.classList.add("sticky");
+          } else {
+            header.classList.remove("sticky");
+          }
+        }
+</script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+    
+    <meta charset="utf-8">
+    <title>Per Year Funding</title>
+    <script src="http://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="css/style.css">
+    
+    
+</head>
+<body>
+    <div class="sidebar">
+        <h3>Data Views</h3>
+        <a href="index.html">Project Overview</a>
+          <a href="per_year.html">Per Year Funding</a>
+          <a href="per_institution.html">Per Institution Funding</a>
+          <a href="per_aff_type.html">Per Organization Type Funding</a>
+          <a href="per_grant_type.html">Per Grant Type Funding</a>
+    </div>
+    <div class="content">
+    <div class="chart-space">
+        <div class="dropdown">
+             <select id="csv-files" name="csv-files">
+                <option value ="data/per_year_totals.csv" selected>Total Funding</option>
+                <option value ="data/per_year_means.csv">Mean Funding</option>
+            </select>
+        </div><!--dropdown-->  
+        <div class="top-charts">
+            
+            <div id="chart1"></div>
+            <div id="chart2"></div>
+        </div><!--top-charts-->
+        <h4>The following chart shows ACTIVE NINDS funding at any point in time. This is based on start and end dates provided with the grant award. Many of the projects funded by NINDS are still ongoing, thus showing end dates up to 2025</h4>
+        <h4>Scroll over upper axis to zoom in and move window on lower axis to view different time ranges on the plot</h4>
+        <div class="bottom-charts">
+            <div id="chart3"></div>
+        </div><!--bottom-charts-->
+    </div><!--chartspace-->
+    </div><!--content-->
+    <div class="header" id="myHeader">
+        <h1>NINDS Per-Year Funding</h1>
+    </div>
+    <script src="js/per_year.js"></script>
+    <script>
+        window.onscroll = function() {myFunction()};
+
+        var header = document.getElementById("myHeader");
+        var sticky = header.offsetTop;
+
+        function myFunction() {
+          if (window.pageYOffset > sticky) {
+            header.classList.add("sticky");
+          } else {
+            header.classList.remove("sticky");
+          }
+        }
+</script>
+</body>
+</html>
+

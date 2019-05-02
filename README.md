@@ -8,4 +8,6 @@ This data was used to mine individual author information from Scopus using the S
 
 The data was combined in Python. The website was built with HTML, CSS, and JavaScript and visualizations were built in D3.js.
 
+Python scripts cannot be run. Certain data with individual researcher information could not be included publicly for this project. Data used for visualizations have been aggregated and deidentified. 
+
 [![DOI](https://zenodo.org/badge/184613608.svg)](https://zenodo.org/badge/latestdoi/184613608)

@@ -1,0 +1,443 @@
+,ninds_aff_type,fiscal_year,fiscal_year_total_cost
+0,domestic for-profits,1993,9035453.0
+1,domestic for-profits,1994,21679326.0
+2,domestic for-profits,1996,14122547.0
+3,domestic for-profits,1997,36181792.0
+4,domestic for-profits,1998,19056051.0
+5,domestic for-profits,1999,22194508.0
+6,domestic for-profits,2000,25734808.0
+7,domestic for-profits,2001,24489876.0
+8,domestic for-profits,2003,68327918.0
+9,domestic for-profits,2004,73126672.0
+10,domestic for-profits,2006,41972973.0
+11,domestic for-profits,2007,46473391.0
+12,domestic for-profits,2008,52013852.0
+13,domestic for-profits,2009,53761758.0
+14,domestic for-profits,2010,69016967.0
+15,domestic for-profits,2012,50159105.0
+16,domestic for-profits,2013,51191419.0
+17,domestic for-profits,2014,57576322.0
+18,domestic for-profits,2015,54441087.0
+19,domestic for-profits,2016,57020112.0
+20,domestic for-profits,2017,63922849.0
+21,domestic for-profits,2018,66309019.0
+23,domestic higher education,1993,1162758.0
+24,domestic higher education,1994,3907228.0
+25,domestic higher education,1996,3653337.0
+26,domestic higher education,1997,7743965.0
+27,domestic higher education,1998,4340898.0
+28,domestic higher education,1999,4247754.0
+29,domestic higher education,2000,5404247.0
+30,domestic higher education,2001,3906322.0
+31,domestic higher education,2003,5976580.0
+32,domestic higher education,2004,3181706.0
+33,domestic higher education,2006,2461219.0
+34,domestic higher education,2007,3786072.0
+35,domestic higher education,2008,17779099.0
+36,domestic higher education,2009,16984170.0
+37,domestic higher education,2010,8251056.0
+38,domestic higher education,2012,10988692.0
+39,domestic higher education,2013,2222004.0
+40,domestic higher education,2014,4902732.0
+41,domestic higher education,2015,9801831.0
+42,domestic higher education,2016,9152970.0
+43,domestic higher education,2017,9875515.0
+44,domestic higher education,2018,16786721.0
+46,independent hospitals,1993,34157314.0
+47,independent hospitals,1994,67424122.0
+48,independent hospitals,1996,37757798.0
+49,independent hospitals,1997,78058198.0
+50,independent hospitals,1998,45379869.0
+51,independent hospitals,1999,53779069.0
+52,independent hospitals,2000,69686796.0
+53,independent hospitals,2001,85277816.0
+54,independent hospitals,2003,204512780.0
+55,independent hospitals,2004,215334150.0
+56,independent hospitals,2006,114514565.0
+57,independent hospitals,2007,121149401.0
+58,independent hospitals,2008,130169810.0
+59,independent hospitals,2009,138292001.0
+60,independent hospitals,2010,135275064.0
+61,independent hospitals,2012,125983033.0
+62,independent hospitals,2013,114742512.0
+63,independent hospitals,2014,113384005.0
+64,independent hospitals,2015,117852572.0
+65,independent hospitals,2016,133069702.0
+66,independent hospitals,2017,135916181.0
+67,independent hospitals,2018,147326638.0
+69,organized research units,1993,6968176.0
+70,organized research units,1994,14594282.0
+71,organized research units,1996,6503520.0
+72,organized research units,1997,15627462.0
+73,organized research units,1998,4829536.0
+74,organized research units,1999,9539154.0
+75,organized research units,2000,8561785.0
+76,organized research units,2001,9345255.0
+77,organized research units,2003,23091860.0
+78,organized research units,2004,24370975.0
+79,organized research units,2006,13982339.0
+80,organized research units,2007,14987812.0
+81,organized research units,2008,12791882.0
+82,organized research units,2009,16429473.0
+83,organized research units,2010,17033842.0
+84,organized research units,2012,14334787.0
+85,organized research units,2013,12766650.0
+86,organized research units,2014,14791331.0
+87,organized research units,2015,14606084.0
+88,organized research units,2016,13616505.0
+89,organized research units,2017,14104088.0
+90,organized research units,2018,20902581.0
+92,other domestic higher education,1993,7782684.0
+93,other domestic higher education,1994,17120940.0
+94,other domestic higher education,1996,9504263.0
+95,other domestic higher education,1997,15260220.0
+96,other domestic higher education,1998,9266428.0
+97,other domestic higher education,1999,10785053.0
+98,other domestic higher education,2000,14072036.0
+99,other domestic higher education,2001,13912077.0
+100,other domestic higher education,2003,32968838.0
+101,other domestic higher education,2004,31381460.0
+102,other domestic higher education,2006,14868247.0
+103,other domestic higher education,2007,13586098.0
+104,other domestic higher education,2008,11821555.0
+105,other domestic higher education,2009,15222947.0
+106,other domestic higher education,2010,15905635.0
+107,other domestic higher education,2012,18339313.0
+108,other domestic higher education,2013,17846107.0
+109,other domestic higher education,2014,18601381.0
+110,other domestic higher education,2015,20240519.0
+111,other domestic higher education,2016,18983072.0
+112,other domestic higher education,2017,20690116.0
+113,other domestic higher education,2018,24785006.0
+115,other domestic non-profits,1993,6685695.0
+116,other domestic non-profits,1994,13464262.0
+117,other domestic non-profits,1996,8441884.0
+118,other domestic non-profits,1997,14519485.0
+119,other domestic non-profits,1998,8197026.0
+120,other domestic non-profits,1999,10019219.0
+121,other domestic non-profits,2000,15899056.0
+122,other domestic non-profits,2001,15574325.0
+123,other domestic non-profits,2003,50625758.0
+124,other domestic non-profits,2004,51532428.0
+125,other domestic non-profits,2006,20331121.0
+126,other domestic non-profits,2007,22475739.0
+127,other domestic non-profits,2008,19987899.0
+128,other domestic non-profits,2009,21624184.0
+129,other domestic non-profits,2010,19196837.0
+130,other domestic non-profits,2012,17526850.0
+131,other domestic non-profits,2013,14671755.0
+132,other domestic non-profits,2014,22489324.0
+133,other domestic non-profits,2015,31391593.0
+134,other domestic non-profits,2016,34313491.0
+135,other domestic non-profits,2017,46749087.0
+136,other domestic non-profits,2018,38711214.0
+138,research institutes,1993,23917860.0
+139,research institutes,1994,50368080.0
+140,research institutes,1996,30224812.0
+141,research institutes,1997,65548558.0
+142,research institutes,1998,33102595.0
+143,research institutes,1999,42221298.0
+144,research institutes,2000,46951452.0
+145,research institutes,2001,55376671.0
+146,research institutes,2003,138251763.0
+147,research institutes,2004,144306270.0
+148,research institutes,2006,72163169.0
+149,research institutes,2007,76995951.0
+150,research institutes,2008,76028522.0
+151,research institutes,2009,93042250.0
+152,research institutes,2010,91024654.0
+153,research institutes,2012,90132197.0
+154,research institutes,2013,85645807.0
+155,research institutes,2014,83522860.0
+156,research institutes,2015,93715534.0
+157,research institutes,2016,88232902.0
+158,research institutes,2017,94741164.0
+159,research institutes,2018,82901076.0
+161,schools of  earth sciences-natural resources,1993,2529493.0
+162,schools of  earth sciences-natural resources,1994,5707112.0
+163,schools of  earth sciences-natural resources,1996,1425855.0
+164,schools of  earth sciences-natural resources,1997,3203496.0
+165,schools of  earth sciences-natural resources,1998,1344073.0
+166,schools of  earth sciences-natural resources,1999,1875830.0
+167,schools of  earth sciences-natural resources,2000,2968782.0
+168,schools of  earth sciences-natural resources,2001,1946391.0
+169,schools of  earth sciences-natural resources,2003,5245884.0
+170,schools of  earth sciences-natural resources,2004,4278360.0
+171,schools of  earth sciences-natural resources,2006,3738988.0
+172,schools of  earth sciences-natural resources,2007,2851337.0
+173,schools of  earth sciences-natural resources,2008,3408240.0
+174,schools of  earth sciences-natural resources,2009,4446498.0
+175,schools of  earth sciences-natural resources,2010,4017770.0
+176,schools of  earth sciences-natural resources,2012,4214682.0
+177,schools of  earth sciences-natural resources,2013,4945234.0
+178,schools of  earth sciences-natural resources,2014,4478044.0
+179,schools of  earth sciences-natural resources,2015,3578216.0
+180,schools of  earth sciences-natural resources,2016,2589856.0
+181,schools of  earth sciences-natural resources,2017,4054669.0
+182,schools of  earth sciences-natural resources,2018,3288299.0
+183,schools of allied health professions,1993,926053.0
+184,schools of allied health professions,1994,1494820.0
+185,schools of allied health professions,1996,143848.0
+186,schools of allied health professions,1997,1085052.0
+187,schools of allied health professions,1998,527361.0
+188,schools of allied health professions,1999,1793304.0
+189,schools of allied health professions,2000,1697715.0
+190,schools of allied health professions,2001,2266043.0
+191,schools of allied health professions,2003,5453650.0
+192,schools of allied health professions,2004,5069474.0
+193,schools of allied health professions,2006,3029681.0
+194,schools of allied health professions,2007,3137980.0
+195,schools of allied health professions,2008,4658679.0
+196,schools of allied health professions,2009,5063076.0
+197,schools of allied health professions,2010,4799812.0
+198,schools of allied health professions,2012,2756109.0
+199,schools of allied health professions,2013,2614214.0
+200,schools of allied health professions,2014,4773632.0
+201,schools of allied health professions,2015,6638991.0
+202,schools of allied health professions,2016,8825718.0
+203,schools of allied health professions,2017,8415475.0
+204,schools of allied health professions,2018,7970902.0
+206,schools of arts and sciences,1993,40252254.0
+207,schools of arts and sciences,1994,86405090.0
+208,schools of arts and sciences,1996,50491307.0
+209,schools of arts and sciences,1997,112893272.0
+210,schools of arts and sciences,1998,59130223.0
+211,schools of arts and sciences,1999,70324050.0
+212,schools of arts and sciences,2000,78807162.0
+213,schools of arts and sciences,2001,82432016.0
+214,schools of arts and sciences,2003,201506729.0
+215,schools of arts and sciences,2004,200882940.0
+216,schools of arts and sciences,2006,105742722.0
+217,schools of arts and sciences,2007,98473854.0
+218,schools of arts and sciences,2008,97450278.0
+219,schools of arts and sciences,2009,124944364.0
+220,schools of arts and sciences,2010,120370813.0
+221,schools of arts and sciences,2012,104852389.0
+222,schools of arts and sciences,2013,96499322.0
+223,schools of arts and sciences,2014,97546342.0
+224,schools of arts and sciences,2015,98490271.0
+225,schools of arts and sciences,2016,98444144.0
+226,schools of arts and sciences,2017,107790422.0
+227,schools of arts and sciences,2018,130948933.0
+229,schools of dentistry,1993,13021569.0
+230,schools of dentistry,1994,27601738.0
+231,schools of dentistry,1996,12725336.0
+232,schools of dentistry,1997,30236260.0
+233,schools of dentistry,1998,15372505.0
+234,schools of dentistry,1999,10512556.0
+235,schools of dentistry,2000,12216223.0
+236,schools of dentistry,2001,19854367.0
+237,schools of dentistry,2003,44727834.0
+238,schools of dentistry,2004,54576134.0
+239,schools of dentistry,2006,19935407.0
+240,schools of dentistry,2007,27958634.0
+241,schools of dentistry,2008,28382870.0
+242,schools of dentistry,2009,30330663.0
+243,schools of dentistry,2010,33253777.0
+244,schools of dentistry,2012,21389007.0
+245,schools of dentistry,2013,19845541.0
+246,schools of dentistry,2014,16695668.0
+247,schools of dentistry,2015,14464829.0
+248,schools of dentistry,2016,16946519.0
+249,schools of dentistry,2017,17345881.0
+250,schools of dentistry,2018,22236304.0
+252,schools of education,1993,404648.0
+253,schools of education,1994,628190.0
+254,schools of education,1996,967909.0
+255,schools of education,1997,1965420.0
+256,schools of education,1998,961122.0
+257,schools of education,1999,1591383.0
+258,schools of education,2000,1519462.0
+259,schools of education,2001,1790699.0
+260,schools of education,2003,2058062.0
+261,schools of education,2004,1218910.0
+262,schools of education,2006,433943.0
+263,schools of education,2007,188505.0
+264,schools of education,2008,197786.0
+265,schools of education,2009,465439.0
+266,schools of education,2010,545432.0
+267,schools of education,2014,424787.0
+268,schools of education,2015,134266.0
+269,schools of education,2016,171448.0
+270,schools of education,2017,173928.0
+271,schools of education,2018,177055.0
+272,schools of engineering,1993,3556058.0
+273,schools of engineering,1994,7557118.0
+274,schools of engineering,1996,4989094.0
+275,schools of engineering,1997,12160232.0
+276,schools of engineering,1998,5972667.0
+277,schools of engineering,1999,5420368.0
+278,schools of engineering,2000,7041268.0
+279,schools of engineering,2001,7212493.0
+280,schools of engineering,2003,17310998.0
+281,schools of engineering,2004,17648552.0
+282,schools of engineering,2006,17791100.0
+283,schools of engineering,2007,18869337.0
+284,schools of engineering,2008,19752042.0
+285,schools of engineering,2009,28192290.0
+286,schools of engineering,2010,28578521.0
+287,schools of engineering,2012,25106942.0
+288,schools of engineering,2013,22765900.0
+289,schools of engineering,2014,27182611.0
+290,schools of engineering,2015,33822582.0
+291,schools of engineering,2016,45796392.0
+292,schools of engineering,2017,47057024.0
+293,schools of engineering,2018,72243385.0
+295,schools of medicine,1993,325120434.0
+296,schools of medicine,1994,697777644.0
+297,schools of medicine,1996,374942120.0
+298,schools of medicine,1997,796638198.0
+299,schools of medicine,1998,437890433.0
+300,schools of medicine,1999,498835246.0
+301,schools of medicine,2000,573109692.0
+302,schools of medicine,2001,635871873.0
+303,schools of medicine,2003,1516439511.0
+304,schools of medicine,2004,1550597960.0
+305,schools of medicine,2006,797959558.0
+306,schools of medicine,2007,828247640.0
+307,schools of medicine,2008,828010862.0
+308,schools of medicine,2009,1015149944.0
+309,schools of medicine,2010,1001135167.0
+310,schools of medicine,2012,847518893.0
+311,schools of medicine,2013,805060254.0
+312,schools of medicine,2014,814917987.0
+313,schools of medicine,2015,800322069.0
+314,schools of medicine,2016,859979788.0
+315,schools of medicine,2017,908928538.0
+316,schools of medicine,2018,1072858469.0
+318,schools of nursing,1993,254081.0
+319,schools of nursing,1994,474858.0
+320,schools of nursing,1996,1041061.0
+321,schools of nursing,1997,2026420.0
+322,schools of nursing,1998,309264.0
+323,schools of nursing,1999,321635.0
+324,schools of nursing,2000,569103.0
+325,schools of nursing,2001,598042.0
+326,schools of nursing,2003,1227706.0
+327,schools of nursing,2004,1342810.0
+328,schools of nursing,2006,660479.0
+329,schools of nursing,2010,216760.0
+330,schools of nursing,2012,1270837.0
+331,schools of nursing,2013,969233.0
+332,schools of nursing,2014,1119058.0
+333,schools of nursing,2015,1030628.0
+334,schools of nursing,2016,633456.0
+335,schools of nursing,2017,77852.0
+336,schools of nursing,2018,848034.0
+337,schools of optometry-ophthalmology,1993,202346.0
+338,schools of optometry-ophthalmology,1994,364158.0
+339,schools of optometry-ophthalmology,2007,30364.0
+340,schools of optometry-ophthalmology,2008,206636.0
+341,schools of optometry-ophthalmology,2009,383273.0
+342,schools of optometry-ophthalmology,2010,187167.0
+343,schools of optometry-ophthalmology,2015,220500.0
+344,schools of optometry-ophthalmology,2016,147000.0
+345,schools of osteopathic medicine,2008,1167136.0
+346,schools of osteopathic medicine,2009,1537861.0
+347,schools of osteopathic medicine,2010,1592510.0
+348,schools of osteopathic medicine,2012,665433.0
+349,schools of osteopathic medicine,2013,848780.0
+350,schools of osteopathic medicine,2014,884244.0
+351,schools of osteopathic medicine,2015,1390676.0
+352,schools of osteopathic medicine,2016,1021737.0
+353,schools of osteopathic medicine,2017,951347.0
+354,schools of osteopathic medicine,2018,700926.0
+356,schools of osteopathy,1993,345733.0
+357,schools of osteopathy,1994,777362.0
+358,schools of osteopathy,1996,516421.0
+359,schools of osteopathy,1997,285738.0
+360,schools of osteopathy,1999,217237.0
+361,schools of osteopathy,2000,295301.0
+362,schools of osteopathy,2001,302659.0
+363,schools of osteopathy,2003,240942.0
+364,schools of osteopathy,2004,1579682.0
+365,schools of osteopathy,2006,1540739.0
+366,schools of osteopathy,2007,1195270.0
+367,schools of pharmacy,1993,2927724.0
+368,schools of pharmacy,1994,7373690.0
+369,schools of pharmacy,1996,3357123.0
+370,schools of pharmacy,1997,9286454.0
+371,schools of pharmacy,1998,4033023.0
+372,schools of pharmacy,1999,6894842.0
+373,schools of pharmacy,2000,3620216.0
+374,schools of pharmacy,2001,3575721.0
+375,schools of pharmacy,2003,16352892.0
+376,schools of pharmacy,2004,19467444.0
+377,schools of pharmacy,2006,12051826.0
+378,schools of pharmacy,2007,9002279.0
+379,schools of pharmacy,2008,8514000.0
+380,schools of pharmacy,2009,8483488.0
+381,schools of pharmacy,2010,11098626.0
+382,schools of pharmacy,2012,11382504.0
+383,schools of pharmacy,2013,12116836.0
+384,schools of pharmacy,2014,11589694.0
+385,schools of pharmacy,2015,15257636.0
+386,schools of pharmacy,2016,13077058.0
+387,schools of pharmacy,2017,9629478.0
+388,schools of pharmacy,2018,11576238.0
+390,schools of public health,1993,750444.0
+391,schools of public health,1994,1029928.0
+392,schools of public health,1996,1419321.0
+393,schools of public health,1997,4157980.0
+394,schools of public health,1998,1547559.0
+395,schools of public health,1999,3252504.0
+396,schools of public health,2000,3980450.0
+397,schools of public health,2001,8288676.0
+398,schools of public health,2003,38937354.0
+399,schools of public health,2004,26106006.0
+400,schools of public health,2006,22745518.0
+401,schools of public health,2007,18330519.0
+402,schools of public health,2008,19688163.0
+403,schools of public health,2009,25188572.0
+404,schools of public health,2010,17518550.0
+405,schools of public health,2012,17981566.0
+406,schools of public health,2013,20606400.0
+407,schools of public health,2014,24716510.0
+408,schools of public health,2015,18339382.0
+409,schools of public health,2016,19152878.0
+410,schools of public health,2017,17664204.0
+411,schools of public health,2018,20170184.0
+413,schools of veterinary medicine,1993,5144633.0
+414,schools of veterinary medicine,1994,11571042.0
+415,schools of veterinary medicine,1996,5393139.0
+416,schools of veterinary medicine,1997,14054120.0
+417,schools of veterinary medicine,1998,4654292.0
+418,schools of veterinary medicine,1999,6034717.0
+419,schools of veterinary medicine,2000,6697217.0
+420,schools of veterinary medicine,2001,7521909.0
+421,schools of veterinary medicine,2003,22264092.0
+422,schools of veterinary medicine,2004,19293678.0
+423,schools of veterinary medicine,2006,6187832.0
+424,schools of veterinary medicine,2007,6547842.0
+425,schools of veterinary medicine,2008,7320758.0
+426,schools of veterinary medicine,2009,7735162.0
+427,schools of veterinary medicine,2010,7513089.0
+428,schools of veterinary medicine,2012,12287701.0
+429,schools of veterinary medicine,2013,10489460.0
+430,schools of veterinary medicine,2014,12867989.0
+431,schools of veterinary medicine,2015,13831901.0
+432,schools of veterinary medicine,2016,13254949.0
+433,schools of veterinary medicine,2017,12786766.0
+434,schools of veterinary medicine,2018,14896562.0
+436,unavailable,1993,6511872.0
+437,unavailable,1994,15322952.0
+438,unavailable,1996,7952636.0
+439,unavailable,1997,11473418.0
+440,unavailable,1998,2368505.0
+441,unavailable,1999,2781937.0
+442,unavailable,2000,2651276.0
+443,unavailable,2001,4995142.0
+444,unavailable,2003,14857920.0
+445,unavailable,2004,18011302.0
+446,unavailable,2006,9129766.0
+447,unavailable,2007,188767098.0
+448,unavailable,2008,156738150.0
+449,unavailable,2009,5949024.0
+450,unavailable,2010,7999991.0
+451,unavailable,2012,164323032.0
+452,unavailable,2013,156364182.0
+453,unavailable,2014,166419009.0
+454,unavailable,2015,167644033.0
+455,unavailable,2016,173299388.0
+456,unavailable,2017,176441237.0
+457,unavailable,2018,186988928.0

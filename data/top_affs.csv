@@ -1,0 +1,515 @@
+,ninds_aff_name,fiscal_year,fiscal_year_total_cost
+0,baylor college of medicine,1993,5715936.0
+1,baylor college of medicine,1994,12447182.0
+2,baylor college of medicine,1996,7854758.0
+3,baylor college of medicine,1997,15786528.0
+4,baylor college of medicine,1998,7980942.0
+5,baylor college of medicine,1999,9995493.0
+6,baylor college of medicine,2000,12564168.0
+7,baylor college of medicine,2001,13280745.0
+8,baylor college of medicine,2003,25901038.0
+9,baylor college of medicine,2004,28489338.0
+10,baylor college of medicine,2006,14015402.0
+11,baylor college of medicine,2007,12943675.0
+12,baylor college of medicine,2008,12034834.0
+13,baylor college of medicine,2009,12636961.0
+14,baylor college of medicine,2010,12266918.0
+15,baylor college of medicine,2012,12916614.0
+16,baylor college of medicine,2013,10963269.0
+17,baylor college of medicine,2014,13300548.0
+18,baylor college of medicine,2015,16710449.0
+19,baylor college of medicine,2016,19166848.0
+20,baylor college of medicine,2017,18638768.0
+21,baylor college of medicine,2018,17489334.0
+23,brigham and women's hospital,1993,2710867.0
+24,brigham and women's hospital,1994,5649800.0
+25,brigham and women's hospital,1996,2409859.0
+26,brigham and women's hospital,1997,5767746.0
+27,brigham and women's hospital,1998,2654321.0
+28,brigham and women's hospital,1999,4632997.0
+29,brigham and women's hospital,2000,6995010.0
+30,brigham and women's hospital,2001,8347908.0
+31,brigham and women's hospital,2003,22801726.0
+32,brigham and women's hospital,2004,24984316.0
+33,brigham and women's hospital,2006,11744599.0
+34,brigham and women's hospital,2007,13299256.0
+35,brigham and women's hospital,2008,14178871.0
+36,brigham and women's hospital,2009,17137213.0
+37,brigham and women's hospital,2010,13823899.0
+38,brigham and women's hospital,2012,12754730.0
+39,brigham and women's hospital,2013,10705309.0
+40,brigham and women's hospital,2014,12496987.0
+41,brigham and women's hospital,2015,13561226.0
+42,brigham and women's hospital,2016,13358123.0
+43,brigham and women's hospital,2017,12272543.0
+44,brigham and women's hospital,2018,12063287.0
+46,case western reserve university,1993,5223065.0
+47,case western reserve university,1994,12275158.0
+48,case western reserve university,1996,8484386.0
+49,case western reserve university,1997,18222550.0
+50,case western reserve university,1998,8692636.0
+51,case western reserve university,1999,8334929.0
+52,case western reserve university,2000,8333074.0
+53,case western reserve university,2001,9796589.0
+54,case western reserve university,2003,19327048.0
+55,case western reserve university,2004,18212456.0
+56,case western reserve university,2006,10572704.0
+57,case western reserve university,2007,8300189.0
+58,case western reserve university,2008,9355938.0
+59,case western reserve university,2009,11993310.0
+60,case western reserve university,2010,10183960.0
+61,case western reserve university,2012,8896829.0
+62,case western reserve university,2013,12246033.0
+63,case western reserve university,2014,11561159.0
+64,case western reserve university,2015,11877487.0
+65,case western reserve university,2016,13340864.0
+66,case western reserve university,2017,11399623.0
+67,case western reserve university,2018,15819529.0
+69,columbia university health sciences,1993,327923.0
+70,columbia university health sciences,1994,6253282.0
+71,columbia university health sciences,1996,15733235.0
+72,columbia university health sciences,1997,36937544.0
+73,columbia university health sciences,1998,23928397.0
+74,columbia university health sciences,1999,26410768.0
+75,columbia university health sciences,2000,25375360.0
+76,columbia university health sciences,2001,29377369.0
+77,columbia university health sciences,2003,67340762.0
+78,columbia university health sciences,2004,77302638.0
+79,columbia university health sciences,2006,38551237.0
+80,columbia university health sciences,2007,45522671.0
+81,columbia university health sciences,2008,32847037.0
+82,columbia university health sciences,2009,40916723.0
+83,columbia university health sciences,2010,33004279.0
+84,columbia university health sciences,2012,35752313.0
+85,columbia university health sciences,2013,37143131.0
+86,columbia university health sciences,2014,31434589.0
+87,columbia university health sciences,2015,32591129.0
+88,columbia university health sciences,2016,31035447.0
+89,columbia university health sciences,2017,39642939.0
+90,columbia university health sciences,2018,52486587.0
+92,duke university,1993,7587397.0
+93,duke university,1994,15859884.0
+94,duke university,1996,8690687.0
+95,duke university,1997,20883512.0
+96,duke university,1998,10240761.0
+97,duke university,1999,12730353.0
+98,duke university,2000,13839810.0
+99,duke university,2001,16165071.0
+100,duke university,2003,41521926.0
+101,duke university,2004,44024648.0
+102,duke university,2006,24429878.0
+103,duke university,2007,14941586.0
+104,duke university,2008,16865217.0
+105,duke university,2009,21290878.0
+106,duke university,2010,17217992.0
+107,duke university,2012,17943969.0
+108,duke university,2013,17098108.0
+109,duke university,2014,14144773.0
+110,duke university,2015,12253894.0
+111,duke university,2016,17365859.0
+112,duke university,2017,22944081.0
+113,duke university,2018,27987127.0
+115,emory university,1993,4534406.0
+116,emory university,1994,12628686.0
+117,emory university,1996,8163008.0
+118,emory university,1997,14326412.0
+119,emory university,1998,13648573.0
+120,emory university,1999,15114473.0
+121,emory university,2000,18382841.0
+122,emory university,2001,20756698.0
+123,emory university,2003,35464074.0
+124,emory university,2004,29081980.0
+125,emory university,2006,15725449.0
+126,emory university,2007,16583521.0
+127,emory university,2008,17436262.0
+128,emory university,2009,25516261.0
+129,emory university,2010,34951779.0
+130,emory university,2012,33189657.0
+131,emory university,2013,26334274.0
+132,emory university,2014,25794961.0
+133,emory university,2015,25470128.0
+134,emory university,2016,27543123.0
+135,emory university,2017,27173409.0
+136,emory university,2018,29111796.0
+138,johns hopkins university,1993,16847928.0
+139,johns hopkins university,1994,35987952.0
+140,johns hopkins university,1996,19887512.0
+141,johns hopkins university,1997,40500380.0
+142,johns hopkins university,1998,21484911.0
+143,johns hopkins university,1999,26379279.0
+144,johns hopkins university,2000,31044083.0
+145,johns hopkins university,2001,33304689.0
+146,johns hopkins university,2003,68611270.0
+147,johns hopkins university,2004,72948960.0
+148,johns hopkins university,2006,43073270.0
+149,johns hopkins university,2007,42074207.0
+150,johns hopkins university,2008,38564288.0
+151,johns hopkins university,2009,43951605.0
+152,johns hopkins university,2010,44456915.0
+153,johns hopkins university,2012,45454329.0
+154,johns hopkins university,2013,43309479.0
+155,johns hopkins university,2014,44871312.0
+156,johns hopkins university,2015,38446630.0
+157,johns hopkins university,2016,45893413.0
+158,johns hopkins university,2017,42169311.0
+159,johns hopkins university,2018,47823037.0
+161,massachusetts general hospital,1993,10060020.0
+162,massachusetts general hospital,1994,23272732.0
+163,massachusetts general hospital,1996,14203876.0
+164,massachusetts general hospital,1997,27216060.0
+165,massachusetts general hospital,1998,17054842.0
+166,massachusetts general hospital,1999,19142169.0
+167,massachusetts general hospital,2000,19007146.0
+168,massachusetts general hospital,2001,24236729.0
+169,massachusetts general hospital,2003,61892198.0
+170,massachusetts general hospital,2004,72399904.0
+171,massachusetts general hospital,2006,39216675.0
+172,massachusetts general hospital,2008,49732549.0
+173,massachusetts general hospital,2009,49563547.0
+174,massachusetts general hospital,2010,49924129.0
+175,massachusetts general hospital,2012,43261578.0
+176,massachusetts general hospital,2013,38162222.0
+177,massachusetts general hospital,2014,35622823.0
+178,massachusetts general hospital,2015,44680333.0
+179,massachusetts general hospital,2016,48791460.0
+180,massachusetts general hospital,2017,48939014.0
+181,massachusetts general hospital,2018,59274804.0
+183,national institute of neurological disorders and stroke,1993,0.0
+184,national institute of neurological disorders and stroke,1994,0.0
+185,national institute of neurological disorders and stroke,1996,0.0
+186,national institute of neurological disorders and stroke,1997,0.0
+187,national institute of neurological disorders and stroke,1998,0.0
+188,national institute of neurological disorders and stroke,1999,0.0
+189,national institute of neurological disorders and stroke,2000,0.0
+190,national institute of neurological disorders and stroke,2001,0.0
+191,national institute of neurological disorders and stroke,2003,0.0
+192,national institute of neurological disorders and stroke,2004,0.0
+193,national institute of neurological disorders and stroke,2006,0.0
+194,national institute of neurological disorders and stroke,2007,124794378.0
+195,national institute of neurological disorders and stroke,2008,149587735.0
+196,national institute of neurological disorders and stroke,2012,158076648.0
+197,national institute of neurological disorders and stroke,2013,153507762.0
+198,national institute of neurological disorders and stroke,2014,158615025.0
+199,national institute of neurological disorders and stroke,2015,160328255.0
+200,national institute of neurological disorders and stroke,2016,167878716.0
+201,national institute of neurological disorders and stroke,2017,172244993.0
+202,national institute of neurological disorders and stroke,2018,183026691.0
+203,new york university school of medicine,1996,6211634.0
+204,new york university school of medicine,1997,14597082.0
+205,new york university school of medicine,1998,8429140.0
+206,new york university school of medicine,1999,9461879.0
+207,new york university school of medicine,2000,10677793.0
+208,new york university school of medicine,2001,11468175.0
+209,new york university school of medicine,2003,27644536.0
+210,new york university school of medicine,2004,27850258.0
+211,new york university school of medicine,2006,9233110.0
+212,new york university school of medicine,2007,10803345.0
+213,new york university school of medicine,2008,11156332.0
+214,new york university school of medicine,2009,16316461.0
+215,new york university school of medicine,2010,11563970.0
+216,new york university school of medicine,2012,16962654.0
+217,new york university school of medicine,2013,21382859.0
+218,new york university school of medicine,2014,11749785.0
+219,new york university school of medicine,2015,15994713.0
+220,new york university school of medicine,2016,16599918.0
+221,new york university school of medicine,2017,15100203.0
+222,new york university school of medicine,2018,27799861.0
+224,northwestern university at chicago,2000,582737.0
+225,northwestern university at chicago,2001,197928.0
+226,northwestern university at chicago,2006,17849225.0
+227,northwestern university at chicago,2007,18964825.0
+228,northwestern university at chicago,2008,17457198.0
+229,northwestern university at chicago,2009,15147028.0
+230,northwestern university at chicago,2010,16357313.0
+231,northwestern university at chicago,2012,17149358.0
+232,northwestern university at chicago,2013,15124353.0
+233,northwestern university at chicago,2014,21832124.0
+234,northwestern university at chicago,2015,25189588.0
+235,northwestern university at chicago,2016,25328369.0
+236,northwestern university at chicago,2017,27171238.0
+237,northwestern university at chicago,2018,33246952.0
+239,stanford university,1993,8401538.0
+240,stanford university,1994,15108964.0
+241,stanford university,1996,9035368.0
+242,stanford university,1997,21159840.0
+243,stanford university,1998,11151012.0
+244,stanford university,1999,11273096.0
+245,stanford university,2000,14879386.0
+246,stanford university,2001,16495628.0
+247,stanford university,2003,45642330.0
+248,stanford university,2004,49997418.0
+249,stanford university,2006,25571531.0
+250,stanford university,2007,24518703.0
+251,stanford university,2008,22685107.0
+252,stanford university,2009,24395584.0
+253,stanford university,2010,28904715.0
+254,stanford university,2012,26115956.0
+255,stanford university,2013,24487734.0
+256,stanford university,2014,25812452.0
+257,stanford university,2015,29908115.0
+258,stanford university,2016,28221011.0
+259,stanford university,2017,31198702.0
+260,stanford university,2018,38168363.0
+262,university of alabama at birmingham,1993,3640729.0
+263,university of alabama at birmingham,1994,6362522.0
+264,university of alabama at birmingham,1996,3518206.0
+265,university of alabama at birmingham,1997,9675476.0
+266,university of alabama at birmingham,1998,5206736.0
+267,university of alabama at birmingham,1999,6133526.0
+268,university of alabama at birmingham,2000,7556121.0
+269,university of alabama at birmingham,2001,7976659.0
+270,university of alabama at birmingham,2003,40472678.0
+271,university of alabama at birmingham,2004,19358966.0
+272,university of alabama at birmingham,2006,15542967.0
+273,university of alabama at birmingham,2007,12599389.0
+274,university of alabama at birmingham,2008,15839695.0
+275,university of alabama at birmingham,2009,20166346.0
+276,university of alabama at birmingham,2010,18792464.0
+277,university of alabama at birmingham,2012,14997515.0
+278,university of alabama at birmingham,2013,12117695.0
+279,university of alabama at birmingham,2014,24676497.0
+280,university of alabama at birmingham,2015,17053102.0
+281,university of alabama at birmingham,2016,21469512.0
+282,university of alabama at birmingham,2017,17048764.0
+283,university of alabama at birmingham,2018,23472099.0
+285,university of california los angeles,1993,13660316.0
+286,university of california los angeles,1994,28551054.0
+287,university of california los angeles,1996,13921231.0
+288,university of california los angeles,1997,22699988.0
+289,university of california los angeles,1998,16229122.0
+290,university of california los angeles,1999,18345565.0
+291,university of california los angeles,2000,21926023.0
+292,university of california los angeles,2001,23951125.0
+293,university of california los angeles,2003,61533928.0
+294,university of california los angeles,2004,54693804.0
+295,university of california los angeles,2006,38782273.0
+296,university of california los angeles,2007,36992788.0
+297,university of california los angeles,2008,32735709.0
+298,university of california los angeles,2009,41322885.0
+299,university of california los angeles,2010,35585773.0
+300,university of california los angeles,2012,37910350.0
+301,university of california los angeles,2013,27909898.0
+302,university of california los angeles,2014,23733367.0
+303,university of california los angeles,2015,20420312.0
+304,university of california los angeles,2016,22541284.0
+305,university of california los angeles,2017,24002203.0
+306,university of california los angeles,2018,29624252.0
+308,university of california san francisco,1993,11286267.0
+309,university of california san francisco,1994,23444530.0
+310,university of california san francisco,1996,11553866.0
+311,university of california san francisco,1997,27426480.0
+312,university of california san francisco,1998,15353726.0
+313,university of california san francisco,1999,18577546.0
+314,university of california san francisco,2000,23719657.0
+315,university of california san francisco,2001,21861645.0
+316,university of california san francisco,2003,51724456.0
+317,university of california san francisco,2004,55119556.0
+318,university of california san francisco,2006,26283711.0
+319,university of california san francisco,2007,30620803.0
+320,"university of california, san francisco",2008,31162810.0
+321,"university of california, san francisco",2009,57755722.0
+322,"university of california, san francisco",2010,53690375.0
+323,"university of california, san francisco",2012,45397546.0
+324,"university of california, san francisco",2013,46652763.0
+325,"university of california, san francisco",2014,41970373.0
+326,"university of california, san francisco",2015,49117477.0
+327,"university of california, san francisco",2016,48795497.0
+328,"university of california, san francisco",2017,51939713.0
+329,"university of california, san francisco",2018,62750493.0
+331,university of iowa,1993,7001583.0
+332,university of iowa,1994,12964752.0
+333,university of iowa,1996,5195551.0
+334,university of iowa,1997,11799578.0
+335,university of iowa,1998,5657934.0
+336,university of iowa,1999,8123159.0
+337,university of iowa,2000,8075912.0
+338,university of iowa,2001,14708446.0
+339,university of iowa,2003,25724346.0
+340,university of iowa,2004,25914808.0
+341,university of iowa,2006,13989786.0
+342,university of iowa,2007,13363009.0
+343,university of iowa,2008,16703453.0
+344,university of iowa,2009,21147451.0
+345,university of iowa,2010,16529216.0
+346,university of iowa,2012,18630609.0
+347,university of iowa,2013,13298525.0
+348,university of iowa,2014,13222002.0
+349,university of iowa,2015,12624609.0
+350,university of iowa,2016,12368943.0
+351,university of iowa,2017,14658652.0
+352,university of iowa,2018,16161073.0
+354,university of miami school of medicine,1993,5030731.0
+355,university of miami school of medicine,1994,11650956.0
+356,university of miami school of medicine,1996,5540212.0
+357,university of miami school of medicine,1997,11244776.0
+358,university of miami school of medicine,1998,6080880.0
+359,university of miami school of medicine,1999,6857204.0
+360,university of miami school of medicine,2000,9473934.0
+361,university of miami school of medicine,2001,10863259.0
+362,university of miami school of medicine,2003,24623008.0
+363,university of miami school of medicine,2004,24696430.0
+364,university of miami school of medicine,2006,10505871.0
+365,university of miami school of medicine,2007,19850748.0
+366,university of miami school of medicine,2008,15241090.0
+367,university of miami school of medicine,2009,18509995.0
+368,university of miami school of medicine,2010,22464222.0
+369,university of miami school of medicine,2012,16766308.0
+370,university of miami school of medicine,2013,16087980.0
+371,university of miami school of medicine,2014,15729130.0
+372,university of miami school of medicine,2015,16094495.0
+373,university of miami school of medicine,2016,14895082.0
+374,university of miami school of medicine,2017,15523179.0
+375,university of miami school of medicine,2018,15807294.0
+377,university of michigan at ann arbor,1993,7814764.0
+378,university of michigan at ann arbor,1994,18824316.0
+379,university of michigan at ann arbor,1996,6316471.0
+380,university of michigan at ann arbor,1997,14754550.0
+381,university of michigan at ann arbor,1998,8760688.0
+382,university of michigan at ann arbor,1999,9913974.0
+383,university of michigan at ann arbor,2000,8572974.0
+384,university of michigan at ann arbor,2001,9258485.0
+385,university of michigan at ann arbor,2003,21705504.0
+386,university of michigan at ann arbor,2004,25878592.0
+387,university of michigan at ann arbor,2006,18181805.0
+388,university of michigan at ann arbor,2008,16382548.0
+389,university of michigan at ann arbor,2009,24585225.0
+390,university of michigan at ann arbor,2010,26305579.0
+391,university of michigan at ann arbor,2012,28538119.0
+392,university of michigan at ann arbor,2013,22424459.0
+393,university of michigan at ann arbor,2014,25786300.0
+394,university of michigan at ann arbor,2015,28357547.0
+395,university of michigan at ann arbor,2016,28169518.0
+396,university of michigan at ann arbor,2017,30164931.0
+397,university of michigan at ann arbor,2018,52515507.0
+399,university of pennsylvania,1993,15090000.0
+400,university of pennsylvania,1994,31472212.0
+401,university of pennsylvania,1996,18065346.0
+402,university of pennsylvania,1997,41462280.0
+403,university of pennsylvania,1998,20645688.0
+404,university of pennsylvania,1999,21247222.0
+405,university of pennsylvania,2000,22978246.0
+406,university of pennsylvania,2001,29094623.0
+407,university of pennsylvania,2003,58901914.0
+408,university of pennsylvania,2004,53670090.0
+409,university of pennsylvania,2006,22821975.0
+410,university of pennsylvania,2007,34594898.0
+411,university of pennsylvania,2008,32116179.0
+412,university of pennsylvania,2009,34273809.0
+413,university of pennsylvania,2010,33056554.0
+414,university of pennsylvania,2012,22283172.0
+415,university of pennsylvania,2013,20138050.0
+416,university of pennsylvania,2014,21036394.0
+417,university of pennsylvania,2015,23853657.0
+418,university of pennsylvania,2016,27884248.0
+419,university of pennsylvania,2017,31848646.0
+420,university of pennsylvania,2018,30412481.0
+422,university of pittsburgh at pittsburgh,1993,5865178.0
+423,university of pittsburgh at pittsburgh,1994,10042128.0
+424,university of pittsburgh at pittsburgh,1996,7453053.0
+425,university of pittsburgh at pittsburgh,1997,20451910.0
+426,university of pittsburgh at pittsburgh,1998,11690752.0
+427,university of pittsburgh at pittsburgh,1999,12201768.0
+428,university of pittsburgh at pittsburgh,2000,11535486.0
+429,university of pittsburgh at pittsburgh,2001,12784432.0
+430,university of pittsburgh at pittsburgh,2003,38261250.0
+431,university of pittsburgh at pittsburgh,2004,36257140.0
+432,university of pittsburgh at pittsburgh,2006,20587685.0
+433,university of pittsburgh at pittsburgh,2007,20480334.0
+434,university of pittsburgh at pittsburgh,2008,18020849.0
+435,university of pittsburgh at pittsburgh,2009,23219549.0
+436,university of pittsburgh at pittsburgh,2010,22074544.0
+437,university of pittsburgh at pittsburgh,2012,20623231.0
+438,university of pittsburgh at pittsburgh,2013,21795838.0
+439,university of pittsburgh at pittsburgh,2014,24493986.0
+440,university of pittsburgh at pittsburgh,2015,25375756.0
+441,university of pittsburgh at pittsburgh,2016,29106739.0
+442,university of pittsburgh at pittsburgh,2017,27672806.0
+443,university of pittsburgh at pittsburgh,2018,33393349.0
+445,university of rochester,1993,4412316.0
+446,university of rochester,1994,8519278.0
+447,university of rochester,1996,5070605.0
+448,university of rochester,1997,12976004.0
+449,university of rochester,1998,6315564.0
+450,university of rochester,1999,6671608.0
+451,university of rochester,2000,6736955.0
+452,university of rochester,2001,11342959.0
+453,university of rochester,2003,31262238.0
+454,university of rochester,2004,41373674.0
+455,university of rochester,2006,14041975.0
+456,university of rochester,2007,20888377.0
+457,university of rochester,2008,19922228.0
+458,university of rochester,2009,22129018.0
+459,university of rochester,2010,23243124.0
+460,university of rochester,2012,15553154.0
+461,university of rochester,2013,16262456.0
+462,university of rochester,2014,12386290.0
+463,university of rochester,2015,11919957.0
+464,university of rochester,2016,14388754.0
+465,university of rochester,2017,13529457.0
+466,university of rochester,2018,19064857.0
+468,university of washington,1993,9749818.0
+469,university of washington,1994,19690378.0
+470,university of washington,1996,9979131.0
+471,university of washington,1997,21722970.0
+472,university of washington,1998,11074860.0
+473,university of washington,1999,12919179.0
+474,university of washington,2000,14117634.0
+475,university of washington,2001,13917054.0
+476,university of washington,2003,34285394.0
+477,university of washington,2004,38408270.0
+478,university of washington,2006,17049807.0
+479,university of washington,2007,16598120.0
+480,university of washington,2008,18305909.0
+481,university of washington,2009,22591179.0
+482,university of washington,2010,30082326.0
+483,university of washington,2012,21858955.0
+484,university of washington,2013,23000369.0
+485,university of washington,2014,23501011.0
+486,university of washington,2015,22803612.0
+487,university of washington,2016,19109392.0
+488,university of washington,2017,17970082.0
+489,university of washington,2018,20028727.0
+491,washington university,1993,12373472.0
+492,washington university,1994,29907088.0
+493,washington university,1996,16379378.0
+494,washington university,1997,37256390.0
+495,washington university,1998,17614575.0
+496,washington university,1999,20692905.0
+497,washington university,2000,24501403.0
+498,washington university,2001,30206759.0
+499,washington university,2003,71361820.0
+500,washington university,2004,69205274.0
+501,washington university,2006,26044383.0
+502,washington university,2007,30608832.0
+503,washington university,2008,31866664.0
+504,washington university,2009,31996021.0
+505,washington university,2010,39634318.0
+506,washington university,2012,32555063.0
+507,washington university,2013,27197987.0
+508,washington university,2014,31304757.0
+509,washington university,2015,34421388.0
+510,washington university,2016,36715688.0
+511,washington university,2017,39372759.0
+512,washington university,2018,44281845.0
+514,yale university,1993,17036344.0
+515,yale university,1994,34182318.0
+516,yale university,1996,19375559.0
+517,yale university,1997,42902096.0
+518,yale university,1998,21423826.0
+519,yale university,1999,24909594.0
+520,yale university,2000,23905187.0
+521,yale university,2001,23693719.0
+522,yale university,2003,47707687.0
+523,yale university,2004,65120388.0
+524,yale university,2006,28055032.0
+525,yale university,2007,32525556.0
+526,yale university,2008,36492436.0
+527,yale university,2009,47904935.0
+528,yale university,2010,48140495.0
+529,yale university,2012,28978182.0
+530,yale university,2013,21530799.0
+531,yale university,2014,20675520.0
+532,yale university,2015,19605864.0
+533,yale university,2016,25299814.0
+534,yale university,2017,25739463.0
+535,yale university,2018,24751410.0

@@ -1,4 +1,7 @@
 ## National Institute of Neurological Disorders and Stroke Grant Funding Analysis
+#Site can be found here: https://dvitale199.github.io/ninds_funding_project/
+
+This is my first crack a building a site with visualizations created with D3.js
 
 This project seeks to provide a look at some facets of grant funding through NINDS.
 
